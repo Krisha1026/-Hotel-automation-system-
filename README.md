@@ -31,10 +31,11 @@ A comprehensive command-line hotel management system designed for Moon Hotel in 
 - Booking history
 
 ### 💰 Automated Billing
-- Dynamic pricing calculation
-- Itemized receipts
-- Multiple payment method support
-- Tax calculations
+- Automatic rent calculation
+- Check-out process with:
+  - Days stayed calculation
+  - Balance due calculation
+  - Receipt generation
 
 ### 📊 Reporting Module
 - Daily occupancy reports
